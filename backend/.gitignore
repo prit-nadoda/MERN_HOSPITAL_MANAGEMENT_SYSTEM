@@ -1,0 +1,14 @@
+# Node.js dependencies
+/node_modules
+
+# Build files
+/build
+/dist
+
+# Environment variables
+.env
+node_modules
+config.env
+
+# Configurations
+/config/config.env
